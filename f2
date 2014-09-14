@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x  3 luism luism 4096 Sep 14 22:10 .
+drwxr-xr-x 44 luism luism 4096 Sep 14 22:03 ..
+-rw-rw-r--  1 luism luism  209 Sep 14 22:05 f1.txt
+-rw-rw-r--  1 luism luism    0 Sep 14 22:10 f2
+drwxrwxr-x  8 luism luism 4096 Sep 14 22:07 .git
